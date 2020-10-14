@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=meetMyPet
+
+init 2020-10-12T13:29:53Z Iris <iris.a.orsini@gmail.com> # Création des tables
+check 2020-10-12T13:52:00Z Iris <iris.a.orsini@gmail.com> # Ajout des checks
